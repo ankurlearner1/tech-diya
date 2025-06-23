@@ -21,7 +21,7 @@ While this board is *functionally complete* and includes all the necessary files
 ## 📂 Project Structure
 MyFirstPCB/
 ├── schematic/
-│   └──[Uploading redesign diya.kicad_sch…]()
+│   └──
 
 ├── gerber/
 │   └── all_gerber_files.gbr / .drl etc.
