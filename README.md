@@ -20,16 +20,19 @@ While this board is *functionally complete* and includes all the necessary files
 
 ## 📂 Project Structure
 MyFirstPCB/
-├── schematic/
-│   └──
+├── 📘 README.md           → Project overview and details
+├── 📂 schematic/          → KiCad schematic files (.kicad_sch)
+│
+├── 📂 pcb_layout/         → KiCad PCB layout files (.kicad_pcb)
+│
+├── 📂 gerber/             → Gerber & drill files for fabrication
+│   ├── .gbr               → Gerber layer files
+│   └── .drl               → Drill file
+│
+├── 📂 BOM/                → Bill of Materials (CSV or Excel)
+│
+└── 📂 images/             → 2D/3D board previews and screenshots
 
-├── gerber/
-│   └── all_gerber_files.gbr / .drl etc.
-├── pcb_layout/
-│   └── your_design.kicad_pcb
-├── images/
-├── BOM/
-└── README.md
 
 ---
 
