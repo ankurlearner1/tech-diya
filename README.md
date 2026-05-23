@@ -55,7 +55,7 @@ The circuit digram that i have used !!
 ---
 
 ## ❓ Questions & Feedback
-If you have any questions, suggestions, or feedback about the design or how I can improve, feel free to open an [Issue](https://github.com/yourusername/MyFirstPCB/issues) or contact me directly.  
+If you have any questions, suggestions, or feedback about the design or how I can improve, feel free to open an [Issue](https://github.com/ankurlearner1/MyFirstPCB/issues) or contact me directly.  
 I’m learning, experimenting, and always open to improvement.
 
 ---
